@@ -1,0 +1,1 @@
+this was my last commit with amend method
